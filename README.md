@@ -10,14 +10,9 @@ With this script, you can send any kind of messages to email. For example, this 
 
 ## Required
 * [Python 3.9](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
-* [aiogram 2.15](https://pypi.org/project/aiogram/)
-* [python-dotenv 0.19.1](https://pypi.org/project/python-dotenv/)
-* [SimpleQIWI 0.7](https://pypi.org/project/SimpleQIWI/)
-* [PyMySQL 1.0.2](https://pypi.org/project/PyMySQL/)
-* [cryptography 35.0.0](https://pypi.org/project/cryptography/)
+* [tqdm 4.62.3](https://github.com/tqdm/tqdm)
 
 ## How to use
 * Install the script
-* Edit file .env
-* [Download Telegram](https://desktop.telegram.org/)
-* Launch the bot!
+* Install dependencies
+* Launch the script!
