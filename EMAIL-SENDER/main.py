@@ -151,8 +151,7 @@ def main():
         path_to_text = input("[*] Enter the path to the file (text): ")
         path_to_audio = input("[*] Enter the path to the file (audio): ")
         path_to_image = input("[*] Enter the path to the file (image): ")
-        path_to_application = input(
-            "[*] Enter the path to the file (application): ")
+        path_to_application = input("[*] Enter the path to the file (application): ")
         print(send_email(type=type_of_message, recipient=recipient, path_to_text=path_to_text, path_to_audio=path_to_audio,
                          path_to_image=path_to_image, path_to_application=path_to_application, subject=subject))
 
